@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>HTML Table Background</title>
+   </head>
+	
+   <body>
+      <table border = "1" bordercolor = "black" ; bgcolor = "white">
+         <tr>
+            <th style="background-color: gray">Capitol</th>
+            <th style="background-color: gray">Ord</th>
+            <th style="background-color: gray">Titlu</th>
+            
+         </tr>
+         <tr>
+            <td rowspan = "3"> HTML</td>
+            <td> 1 </td>
+            <td><pre> Beginning HTML and CSS
+ Rob Larsen, Wrox. 2013</pre>  </td>
+ <td title="click pentru detalii"> 
+ <a href="https://www.amazon.com/Beginning-HTML-CSS-Rob-Larsen/dp/1118340183/ref=sr_1_1?keywords=beginning+html+and+css&qid=1583155420&s=books&sr=1-1">
+ <img src="http://t0.gstatic.com/images?q=tbn%3AANd9GcSqY6AFJxQwrSaWLQFtolPIspeBzJ-ARScU7yD-YmU8YRvnIpd5oBR9w9XCXjM&usqp=CAc" style="width90px;height:128px"; alt="click pentru detalii"
+ </a>
+ </td>
+         </tr>
+         <tr>
+            <td> 2</td>
+            <td><pre> Head First HTML and CSS, 2nd Edition
+Ian Floyd, SitePoint, 2008</pre></td>
+<td title="click pentru detalii"> 
+<a href="https://www.amazon.com/Head-First-HTML-CSS-Standards-Based/dp/0596159900/ref=sr_1_1?keywords=head+first+html+and+css&qid=1583155391&s=books&sr=1-1">
+<img src="http://www.englische-fachbuecher.de/assets/head_first_html_with_css__xhtml-535087b40078064787f304ec7b78f4a0b3d2aeba273fd22663b359299aa1a606.jpg" style="width90px;height:128px"; alt="click pentru detalii" </td>
+         </tr>
+         
+          <tr>
+            <td> 3</td>
+            <td><pre> Java in a Nutshell
+E. Robson, E. Freeman, O'Reilly Media, 2012</pre></td>
+<td title="click pentru detalii">
+    <a href="https://www.amazon.com/Java-Nutshell-Desktop-Quick-Reference/dp/1492037257/ref=sr_1_1?crid=3HMJSSNPZKREL&keywords=java+in+a+nutshell%2C+7th+edition&qid=1583155359&s=books&sprefix=Java+in+a+nutshell%2Cstripbooks-intl-ship%2C338&sr=1-1">
+     <img src="https://covers.oreillystatic.com/images/0636920156727/cat.gif" style="width100px;height:128px"; alt="click pentru detalii" 
+     </a>
+     </td>
+         </tr>
+         <tr>
+            <td rowspan = "3">PHP</td>
+            <td> 4 </td>
+            <td><pre> Eclipse
+Callum Hopkins, SitePoint, 2013</pre>
+<td title="click pentru detalii"> 
+<a href="https://www.amazon.com/Eclipse-IDE-Pocket-Guide-Full-Featured/dp/0596100655/ref=sr_1_5?keywords=eclipse&qid=1583155314&rnid=2941120011&s=books&sr=1-5">
+<img src="https://covers.oreillystatic.com/images/9780596006419/lrg.jpg" style="width100px;height:128px"; alt="click pentru detalii" 
+</a>
+</td></td>
+         </tr>
+         
+         <td> 5 </td>
+            <td><pre> Learning PHP, MySQL, JavaScript,
+CSS & HTML5, 3rd Edition</pre>  </td>
+<td title="click pentru detalii">
+    <a href="https://www.amazon.com/Learning-PHP-MySQL-JavaScript-Javascript/dp/1491978910/ref=sr_1_1?keywords=Learning+PHP%2C+MySQL%2C+and+JavaScript&qid=1583154955&sr=8-1">
+     <img src="https://covers.oreillystatic.com/images/0636920033004/lrg.jpg"style="width100px;height:128px"; alt="click pentru detalii" 
+     </a>
+     </td>
+         </tr>
+         </tr>
+      </table>
+   </body>
+	
+</html>
